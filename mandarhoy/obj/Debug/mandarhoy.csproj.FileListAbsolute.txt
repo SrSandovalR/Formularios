@@ -1,0 +1,12 @@
+C:\Users\Bryan\Desktop\Programas VS\mandarhoy\mandarhoy\bin\Debug\mandarhoy.exe.config
+C:\Users\Bryan\Desktop\Programas VS\mandarhoy\mandarhoy\bin\Debug\mandarhoy.exe
+C:\Users\Bryan\Desktop\Programas VS\mandarhoy\mandarhoy\bin\Debug\mandarhoy.pdb
+C:\Users\Bryan\Desktop\Programas VS\mandarhoy\mandarhoy\obj\Debug\mandarhoy.csproj.AssemblyReference.cache
+C:\Users\Bryan\Desktop\Programas VS\mandarhoy\mandarhoy\obj\Debug\mandarhoy.Form1.resources
+C:\Users\Bryan\Desktop\Programas VS\mandarhoy\mandarhoy\obj\Debug\mandarhoy.Properties.Resources.resources
+C:\Users\Bryan\Desktop\Programas VS\mandarhoy\mandarhoy\obj\Debug\mandarhoy.csproj.GenerateResource.cache
+C:\Users\Bryan\Desktop\Programas VS\mandarhoy\mandarhoy\obj\Debug\mandarhoy.csproj.CoreCompileInputs.cache
+C:\Users\Bryan\Desktop\Programas VS\mandarhoy\mandarhoy\obj\Debug\mandarhoy.exe
+C:\Users\Bryan\Desktop\Programas VS\mandarhoy\mandarhoy\obj\Debug\mandarhoy.pdb
+C:\Users\Bryan\Desktop\Programas VS\mandarhoy\mandarhoy\obj\Debug\mandarhoy.Formularios.FRMingresos.resources
+C:\Users\Bryan\Desktop\Programas VS\mandarhoy\mandarhoy\obj\Debug\mandarhoy.Formularios.heredado.resources
