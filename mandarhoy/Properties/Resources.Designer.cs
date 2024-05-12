@@ -59,15 +59,5 @@ namespace mandarhoy.Properties {
                 resourceCulture = value;
             }
         }
-        
-        /// <summary>
-        ///   Busca un recurso adaptado de tipo System.Drawing.Bitmap.
-        /// </summary>
-        internal static System.Drawing.Bitmap RobloxScreenShot20240405_163435858 {
-            get {
-                object obj = ResourceManager.GetObject("RobloxScreenShot20240405_163435858", resourceCulture);
-                return ((System.Drawing.Bitmap)(obj));
-            }
-        }
     }
 }

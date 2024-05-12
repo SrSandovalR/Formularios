@@ -20,8 +20,13 @@ namespace mandarhoy.Formularios
         private void sumar_Click(object sender, EventArgs e)
         {
             comboBoxfacultades.Items.Add("derecho");
-             textBoxresultado.Text = textBoxnumero1.Text + textBoxnumero2.Text ;
-            
+
+            int numero1 = int.Parse(textBoxnumero1.Text);
+            int numero2 = int.Parse(textBoxnumero2.Text);
+            int resultado = numero1 + numero2;
+            textBoxresultado.Text = resultado.ToString();
+
+
         }
 
         private void textBoxnumero2_TextChanged(object sender, EventArgs e)
@@ -43,6 +48,16 @@ namespace mandarhoy.Formularios
         private void comboBoxfacultades_SelectedIndexChanged(object sender, EventArgs e)
         {
             MessageBox.Show(comboBoxfacultades.SelectedItem.ToString());
+
+        }
+
+        private void labelresutlado_Click(object sender, EventArgs e)
+        {
+           
+        }
+
+        private void FRMingresos_Load(object sender, EventArgs e)
+        {
 
         }
     }
